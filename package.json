@@ -1,6 +1,6 @@
 {
   "name": "zepto-events",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A minimal build of Zepto.js using CORE and EVENT modules",
   "main": "index.js",
   "scripts": {
